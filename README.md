@@ -10,13 +10,9 @@
 </a>
 <br />
 
-<br />
-
 Hi,I'm Ben, a Web Developer at heart. Apart from that I love getting involved in all aspects of code. 
 
-
 <!-- //<img align="right" alt="GIF" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" /> -->
-
 
 **Talking about Personal Stuffs:**
 
@@ -27,11 +23,6 @@ Hi,I'm Ben, a Web Developer at heart. Apart from that I love getting involved in
 - 💬 Ask me about anything , Would love to answer them.✌
 - 📫 How to reach me: 
 - 📝[Portfolio](https://Benzardus.com)
-
-
-
-
-
 
 **Languages and Tools:**
 <h3> 🛠 &nbsp;Tech Stack</h3>
@@ -66,16 +57,8 @@ Hi,I'm Ben, a Web Developer at heart. Apart from that I love getting involved in
 
 
 [![Ben GitHub stats](https://github-readme-stats.vercel.app/api?username=Ben-Zard&show_icons=true&theme=radical)
+<br />
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ben-Zard)](https://git.io/streak-stats)
+<br />
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-📊 **Weekly development breakdown**
-<!--START_SECTION:waka-->
-```text
-Python      4 hrs 32 mins       █████████░░░░░░░░░░░░░░░░   35.69 
-HTML/CSS    2 hrs 50 mins       █████░░░░░░░░░░░░░░░░░░░░   22.32 
-Javascript  1 hr 10 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   9.17 
-Dart        1 hr 5 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   8.61 
-
-
-⭐️ From [@Amchuz](https://github.com/Ben-Zard)
