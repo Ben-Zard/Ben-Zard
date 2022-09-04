@@ -52,13 +52,16 @@ Hi,I'm Ben, a Web Developer at heart. Apart from that I love getting involved in
   ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
   ![InDesign](https://img.shields.io/badge/-InDesign-333333?style=flat&logo=adobe-indesign)
 
-<br/
+
+<br/>
 
 
 
 [![Ben GitHub stats](https://github-readme-stats.vercel.app/api?username=Ben-Zard&show_icons=true&theme=radical)
-<br />
+
+<br/>
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ben-Zard)](https://git.io/streak-stats)
-<br />
+
+<br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
