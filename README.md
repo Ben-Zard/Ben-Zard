@@ -57,7 +57,7 @@ Hi,I'm Ben, a Web Developer at heart. Apart from that I love getting involved in
 
 
 
-[![Ben GitHub stats](https://github-readme-stats.vercel.app/api?username=Ben-Zard&show_icons=true&theme=radical)
+![Ben GitHub stats](https://github-readme-stats.vercel.app/api?username=Ben-Zard&show_icons=true&theme=radical)
 
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ben-Zard)](https://git.io/streak-stats)
