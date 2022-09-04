@@ -1,4 +1,4 @@
-### Hello World 👋 (https://Ben-Zard.github.io/MyPortfolio/)
+### Hello World 👋 [Ben](https://Ben-Zard.github.io/MyPortfolio/)
 
 <br/>
 
