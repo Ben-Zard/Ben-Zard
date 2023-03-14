@@ -9,17 +9,13 @@
 </a>
 <br />
 
-Hi,I'm Ben, a Web Developer at heart. Apart from that I love getting involved in all aspects of code. 
+Hi,I'm Ben,a Web Developer at heart. Apart from that I love getting involved in all aspects of code. 
 
 <!-- //<img align="right" alt="GIF" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" /> -->
 
 **Talking about Personal Stuffs:**
 
-- 🔭 I’m currently work IN IT.
-- 🌱 I’m currently using all my free time to progress in Web Development.
-- 👯 My next goal is to perfect TypeScripit
--
-- 💬 Ask me about anything , Would love to answer them.✌
+- 🔭 I’m currently work as a FullStack Developer.
 - 📫 How to reach me: 
 - 📝[Portfolio](https://Benzardus.com)
 
